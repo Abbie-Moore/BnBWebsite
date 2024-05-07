@@ -104,7 +104,7 @@ nav ul li:hover a {
 
 .responsive-video {
   width: 90vw;
-  height: 40vh; 
+  height: 45vh; 
   object-fit: cover;
 }
 
@@ -176,7 +176,7 @@ ul {
 }
 
 li {
-  float: center;
+  float: center; 
 }
 
 li a, .dropbtn {
